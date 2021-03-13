@@ -1,4 +1,4 @@
-# Ferrari
+# Ferrari 🏎️
 
 ## 1주차
 
