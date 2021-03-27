@@ -23,3 +23,15 @@
 - LEVEL2 [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3) / [Code](./stack-queue/42584.py)
 - LEVEL2 [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3) / [Code](./stack-queue/42586.py)
 - LEVEL2 [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587?language=python3) / [Code](./stack-queue/42587.py)
+
+#### 힙
+
+- LEVEL2 [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626?language=python3) / [Code](./heap/더_맵게.py)
+- LEVEL3 [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627?language=python3) / [Code](./heap/디스크_컨트롤러.py)
+- LEVEL3 [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628?language=python3) / [Code](./heap/이중우선순위큐.py)
+
+#### 완전탐색
+
+- LEVEL1 [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) / [Code](./search/모의고사.py)
+- LEVEL2 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=python3) / [Code](./search/소수찾기.py)
+- LEVEL2 [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842?language=python3) / [Code](./search/카펫.py)
