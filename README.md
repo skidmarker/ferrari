@@ -35,3 +35,12 @@
 - LEVEL1 [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) / [Code](./search/모의고사.py)
 - LEVEL2 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=python3) / [Code](./search/소수찾기.py)
 - LEVEL2 [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842?language=python3) / [Code](./search/카펫.py)
+
+#### 그리디
+
+- LEVEL1 [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=python3) / [Code](./greedy/체육복.py)
+- LEVEL2 [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860?language=python3) / [Code](./greedy/조이스틱.py)
+- LEVEL2 [큰수만들기](https://programmers.co.kr/learn/courses/30/lessons/42883?language=python3) / [Code](./greedy/큰수만들기.py)
+- LEVEL2 [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885?language=python3) / [Code](./greedy/구명보트.py)
+- LEVEL3 [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861?language=python3) / [Code](./greedy/섬_연결하기.py)
+- LEVEL3 [감시카메라](https://programmers.co.kr/learn/courses/30/lessons/42884?language=python3) / [Code](./greedy/감시카메라.py)
