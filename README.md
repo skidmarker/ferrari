@@ -48,7 +48,7 @@
 
 ### BFS & DFS
 
-- LEVEL2 [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165?language=python3) / [Code](./bfs-dfs/타겟_넘버.py)
-- LEVEL3 [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3) / [Code](./bfs-dfs/네트워크.py)
-- LEVEL3 [단어_변환](https://programmers.co.kr/learn/courses/30/lessons/43163?language=python3) / [Code](./bfs-dfs/단어_변환.py)
-- LEVEL3 [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164?language=python3) / [Code](./bfs-dfs/여행경로.py)
+- LEVEL2 [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165?language=python3) / [Code](./dfs-bfs/타겟_넘버.py)
+- LEVEL3 [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3) / [Code](./dfs-bfs/네트워크.py)
+- LEVEL3 [단어_변환](https://programmers.co.kr/learn/courses/30/lessons/43163?language=python3) / [Code](./dfs-bfs/단어_변환.py)
+- LEVEL3 [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164?language=python3) / [Code](./dfs-bfs/여행경로.py)
